@@ -26,6 +26,11 @@ export const MovieProvider = (props) => {
             name: 'Stranger Things',
             price: '$15',
             id: 345536
+        },
+        {
+            name: 'Fast & Furious 17',
+            price: '$2',
+            id: 234928
         }
     ]);
 
